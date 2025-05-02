@@ -20,13 +20,13 @@ A modern, interactive command-line application for number operations and random 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/advanced-number-utility.git
+   git clone https://github.com/Bodymohamed01099/Advanced-Number-Utility.git
    cd advanced-number-utility
    ```
 
 2. Run the application:
    ```bash
-   python number_app.py
+   python index.py
    ```
 
 ## Usage Guide
